@@ -1,0 +1,4 @@
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Assemblies\SaveAndLoadIdeoHair.dll
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.AssemblyReference.cache
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.CoreCompileInputs.cache
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.dll
