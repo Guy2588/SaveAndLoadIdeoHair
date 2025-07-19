@@ -1,0 +1,16 @@
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Assemblies\SaveAndLoadIdeoHair.dll
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.AssemblyReference.cache
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.CoreCompileInputs.cache
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.dll
+D:\Preston\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair-main\1.5\Assemblies\SaveAndLoadIdeoHair.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair-main\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair-main\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair-main\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair-main\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\1.6\Assemblies\SaveAndLoadIdeoHair.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Source\SaveAndLoadIdeoHair\obj\Debug\SaveAndLoadIdeoHair.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SaveAndLoadIdeoHair\Assemblies\SaveAndLoadIdeoHair.dll
